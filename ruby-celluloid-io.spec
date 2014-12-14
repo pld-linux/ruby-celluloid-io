@@ -10,7 +10,7 @@ Release:	1
 License:	MIT
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	-
+# Source0-md5:	39d561d3596c24eb81c1d500f0b82c25
 URL:		http://github.com/celluloid/celluloid-io
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
